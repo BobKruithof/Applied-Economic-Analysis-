@@ -3,10 +3,10 @@
 Personal Information:
 ---------------------
 -	Name:			Bob Kruithof
--	Address: 		Talent Square 112, Tilburg. 5038 LX.
+-	Address: 		Talent Square 112, Tilburg. 5038 LX
 -	Country:		The Netherlands
 -	Telephone number: 	06-20387025
--	E-mail address: 		Bob.30@live.nl
+-	E-mail address: 	Bob.30@live.nl
 -	Date of birth: 		30 May 1995
 -	Nationality: 		Dutch
 
