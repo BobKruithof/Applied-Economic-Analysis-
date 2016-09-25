@@ -15,6 +15,7 @@ Education:
 -	2016-now:		Master Economics – Behavioural economics track at Tilburg University.
 	
 	This track integrates insights from economics and psychology. It builds on the principle that policy advice should be evidence-based and cannot rely on theory alone. Students are trained to take a broader view, in order to get profound knowledge of all relevant aspects of behaviour and the ways it can be affected by policies and strategies.
+	
 -        2013-2016: 		Bachelor Economics and Business Economics at Tilburg university. 
  	
 	Average grade: 7.5
@@ -24,7 +25,10 @@ Education:
 -	2014-2016:		Outreaching Honours program at Tilburg university. 
 
 	A program aimed at helping people understand society from more than just their study perspective. Essential is the development of skills that are not taught in the classroom, but are of vital importance after your study. This is done by giving a course about entrepreneurship and responsible leadership, Krauthammer management training , personal career 	coaching, research based group projects, a community project, talent management training and the organization of a masterclass.
--	2014-2016:		Scholarship of the Thomas More society. Thomas More is a network 				creating society, aiming at critical and reflected thinking outside of 				the normal study perspective.
+	
+-	2014-2016:		Scholarship of the Thomas More society. 
+
+	Thomas More is a network creating society, aiming at critical and reflected thinking outside of the normal study perspective.
 -	2007-2013: 		VWO at Candea College, Duiven.
 
 Employment history:
