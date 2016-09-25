@@ -36,7 +36,7 @@ Education:
 Employment history:
 ---------------------
 -	2013- now: 		Assistant teacher at SSL, an organization that helps (VWO and HAVO) 					students with preparing for their final-exams. This job allowed me to help a lot of students with succesfully finishing 	their high school and making it reallyfulfilling work.
--	2015-2016:		Student assistant at the economics lab at Copenhagen university. Where I was responsible for 		helping experimenters setting up and testing 			their experiments. 
+-	2015-2016:		Student assistant at the economics lab at Copenhagen university. Responsible for 		helping experimenters setting up and testing 			their experiments. 
 -	2008-2013: 		Newspaper delivery.
 
  
