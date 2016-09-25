@@ -39,7 +39,6 @@ Language skills:
 ---------------------
 -	Dutch: Native speaker.
 -	English: Fluent (C1 level).
--	French:	 Basic.
 
 Computer skills:
 ---------------------
@@ -49,10 +48,10 @@ Computer skills:
 
 Additional information: 
 ---------------------
--	Member of the Socrates society. Socrates is a network for top students in the Netherlands. It is a multidisciplinary community, consisting out of young, ambitious students who aim at discovering and improving their talents. Due to my excellent performance at my secondary school, I was invited to join the Socrates society.
+-	Member of the Socrates society. Socrates is a network for top students in the Netherlands. It is a multidisciplinary q		community, consisting out of young, ambitious students who aim at discovering and improving their talents. Due to my 		excellent performance at my secondary school, I was invited to join the Socrates society.
 -	Member of the study trip committee of Outreaching Honours program.
-	Responsible for organizing the study trip to Saint Petersburg, Russia for all the participants of 	the Outreaching Honours program. 
+	Responsible for organizing the study trip to Saint Petersburg, Russia for all the participants of 	the Outreaching 	Honours program. 
 -	Member of the Thomas More Society. 
--	Organiser of the seminar: Military ethics of peace, an international conference with renowned speakers discussing the topic of peace and war in the current state of the world. 
+-	Organiser of the seminar: Military ethics of peace, an international conference with renowned speakers discussing the 		topic of peace and war in the current state of the world. 
 
 
