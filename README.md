@@ -1,3 +1,3 @@
 # Applied-Economic-Analysis
 Assignments:
-Applied-Economic-Analysis-/Curriculum vitae.md 
+https://github.com/BobKruithof/Applied-Economic-Analysis-/blob/master/Curriculum%20vitae.md
