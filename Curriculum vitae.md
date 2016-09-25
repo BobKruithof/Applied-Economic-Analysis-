@@ -14,7 +14,7 @@ Education:
 ---------------------
 -	2016-now:		Master Economics – Behavioural economics track at Tilburg University.
 	
-	This track integrates insights from economics and psychology. It builds on the principle that policy advice should be evidence-based and cannot rely on theory alone. Students are trained to take a broader view, in order to get profound knowledge of all relevant aspects of behaviour and the ways it can be affected by policies and strategies.
+	*This track integrates insights from economics and psychology. It builds on the principle that policy advice should be evidence-based and cannot rely on theory alone. Students are trained to take a broader view, in order to get profound knowledge of all relevant aspects of behaviour and the ways it can be affected by policies and strategies.
 	
 -        2013-2016: 		Bachelor Economics and Business Economics at Tilburg university. 
  	
