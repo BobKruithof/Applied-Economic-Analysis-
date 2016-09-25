@@ -44,7 +44,7 @@ Computer skills:
 
 Additional information: 
 ---------------------
--	Member of the Socrates society. Socrates is a network for top students in the Netherlands. It is a multidisciplinary community, consisting out of young, ambitious students who aim at discovering and improving their talents. Due to my performance at my secondary school, I was invited to join the Socrates society.
+-	Member of the Socrates society. Socrates is a network for top students in the Netherlands. It is a multidisciplinary community, consisting out of young, ambitious students who aim at discovering and improving their talents. Due to my excellent performance at my secondary school, I was invited to join the Socrates society.
 -	Member of the study trip committee of Outreaching Honours program.
 	Responsible for organizing the study trip to Saint Petersburg, Russia for all the participants of 	the Outreaching Honours program. 
 -	Member of the Thomas More Society. 
